@@ -1,0 +1,21 @@
+{
+  "name": "m-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build-all",
+    "build-all": "sass sass/m-icons-all.scss dist/m-icons-all.min.css --style=compressed",
+    "build": "sass sass/m-icons.scss dist/m-icons.min.css --style=compressed",
+    "build-outline": "sass sass/m-icons-outline.scss dist/m-icons-outline.min.css --style=compressed",
+    "build-round": "sass sass/m-icons-round.scss dist/m-icons-round.min.css --style=compressed",
+    "build-sharp": "sass sass/m-icons-sharp.scss dist/m-icons-sharp.min.css --style=compressed",
+    "build-two-tone": "sass sass/m-icons-two-tone.scss dist/m-icons-two-tone.min.css --style=compressed"
+  },
+  "keywords": [
+    "material",
+    "icons"
+  ],
+  "author": "Saroj Kumar Sahoo",
+  "license": "Apache-2.0"
+}
