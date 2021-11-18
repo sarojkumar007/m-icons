@@ -19,9 +19,9 @@ Thank You for using this.
 	- Available Types:
 		- `m-icons`
 		- `m-icons-outline`
-		- `m-icon-round`
-		- `m-icon-sharp`
-		- `m-icon-two-tone`
+		- `m-icons-round`
+		- `m-icons-sharp`
+		- `m-icons-two-tone`
 
 - To add a Icon, type:
 
@@ -39,7 +39,7 @@ Thank You for using this.
 
 List of *icon_name* can be found at,
 
-[Google's Material Icons Library](https://fonts.google.com/icons?selected=Material+Icons)
+<a href="https://fonts.google.com/icons?selected=Material+Icons" target="_blank" rel="noreferrer noopener">Google's Material Icons Library</a>
 
 ## By,
 
