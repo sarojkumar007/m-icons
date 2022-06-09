@@ -9,12 +9,12 @@ Thank You for using this.
 - Import it to your projects by:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sarojkumar007/m-icons/dist/m-icons-all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sarojk18/m-icons/dist/m-icons-all.min.css">
 ```
 or
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sarojkumar007/m-icons/dist/<type>.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sarojk18/m-icons/dist/<type>.min.css">
 ```
 - Available Types:
 	- `m-icons`
