@@ -43,6 +43,6 @@ List of *icon_name* can be found at,
 
 ## By,
 
-[sarojkumar007](https://github.com/sarojkumar007)
+[Saroj Kumar](https://github.com/sarojk18)
 
 > _&copy; CopyRights Google and Me<br>Some Source Files are Google's Provided Data.<br>General Usage is recommended._
